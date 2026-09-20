@@ -75,7 +75,7 @@ C# WinForms 기반으로 개발한 FLIR AX8 제어 프로그램을 이용하여 
 * Mouse Drag & Drop을 이용한 Spot 위치 변경
 * Freeze / Snapshot / Torch 기능 제어
 
-[![FLIR AX8 Control Program Demo](https://img.youtube.com/vi/pT65LI4sWbg/hqdefault.jpg)](https://youtu.be/pT65LI4sWbg)
+[![FLIR AX8 Control Program Demo](https://img.youtube.com/vi/pT65LI4sWbg/maxresdefault.jpg)](https://youtu.be/pT65LI4sWbg)
 
 ▶ [FLIR AX8 Control Program Demo](https://youtu.be/pT65LI4sWbg)
 ---
