@@ -75,7 +75,17 @@ C# WinForms 기반으로 개발한 FLIR AX8 제어 프로그램을 이용하여 
 * Mouse Drag & Drop을 이용한 Spot 위치 변경
 * Freeze / Snapshot / Torch 기능 제어
 
-▶ [FLIR AX8 Control Program Demo](VIDEO_LINK_FLIR_CONTROL)
+<p align="center">
+  <a href="https://youtu.be/pT65LI4sWbg">
+    <img src="https://youtu.be/pT65LI4sWbg/maxresdefault.jpg"
+         alt="FLIR AX8 Control Program Demo"
+         width="800">
+  </a>
+</p>
+
+<p align="center">
+  <b>▶ FLIR AX8 Control Program Demo</b>
+</p>
 
 ---
 
@@ -103,9 +113,17 @@ FLIR AX8 Spot 설정
 접착 공정 온도 상태 확인
 ```
 
-▶ [SmartOven System Operation Demo](VIDEO_LINK_SMARTOVEN)
+<p align="center">
+  <a href="https://youtu.be/_87dW1RamdI">
+    <img src="https://youtu.be/_87dW1RamdI/maxresdefault.jpg"
+         alt="SmartOven System Operation Demo"
+         width="800">
+  </a>
+</p>
 
-▶ [SmartOven Actual Production Environment](VIDEO_LINK_PRODUCTION)
+<p align="center">
+  <b>▶ SmartOven System Operation Demo</b>
+</p>
 
 ## 4. Tech Stack
 
